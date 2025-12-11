@@ -1,5 +1,4 @@
 yx.wboo.cloudns.be#cloudns.be
-yx.wub.netlib.re#netlib.re
 108.162.198.77#ip2
 172.64.53.126#ip3
 172.64.52.25#ip4
