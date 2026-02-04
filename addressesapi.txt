@@ -1,5 +1,4 @@
 yx.wboo.cloudns.be#cloudns.be
-IP 地址#ip1#ip1
 172.64.53.103#ip2
 172.64.52.49#ip3
 108.162.198.23#ip4
